@@ -1,0 +1,25 @@
+<style>
+#tribute-img {
+border: 10px solid #555;
+float: left;
+margin-left: 0px 0px 0px 30px;
+}
+
+
+#title {
+font-size: 50px;
+position: relative; left: 500px;
+}
+
+#img-caption {
+color: green;
+}
+
+/* this snippet was taken from https://forum.freecodecamp.org/t/tribute-page-responsively-resize-img-relative-to-parent-element/203586/3 at 22/08/2021*/
+#image {
+display: block;
+max-width: 100%;
+height: auto;
+margin: auto;
+}
+</style>
